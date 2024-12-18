@@ -38,7 +38,7 @@
             <ul class="nav-menu">
                 <li class="nav-item"><a href="{{ route('about') }}">About</a></li>
                 <li class="nav-item"><a href="{{ route('projects') }}">Projects</a></li>
-                <li class="nav-item"><a href="{{ route('contact') }}">Contact</a></li>
+                {{-- <li class="nav-item"><a href="{{ route('contact') }}">Contact</a></li> --}}
             </ul>
         </nav>
     </header>
